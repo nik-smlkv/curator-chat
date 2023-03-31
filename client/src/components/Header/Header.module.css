@@ -1,0 +1,16 @@
+.header {
+      margin: 0px 0px 20px 0px;
+}
+.header__body {
+   padding: 0px 20px;
+   min-height: 80px;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   background: green;
+}
+.header__logo {
+}
+.header__logo img {
+   width: 65px;
+}

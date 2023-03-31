@@ -1,0 +1,11 @@
+.nav{
+
+   display: flex;
+   padding: 0px 20px;
+}
+
+.item{
+   display: flex;
+   padding: 20px 0;
+   flex-direction: column;
+}
